@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1662043726 source:e:\edav\quadtree\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1662043674 e:\edav\quadtree\resource.h
+
+1662045042 source:e:\edav\quadtree\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
